@@ -1,5 +1,5 @@
 # Infix-to-Postfix-Converter
-Hey there! I've made this app as a college mini-project. This app helps to convert infix expressions to postfix and then evaluate the expressions. Fork it and build on it if you want!
+Hey there! We made this app as a college mini-project. This app helps to convert infix expressions to postfix expressions and then evaluate the expressions. Fork it and build on it if you want!
 
 ## Features:
 * Convert Infix expressions to Postfix Expressions.
